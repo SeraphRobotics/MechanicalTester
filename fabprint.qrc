@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>media/down.svg</file>
+        <file>media/down-left.svg</file>
+        <file>media/down-right.svg</file>
+        <file>media/left.svg</file>
+        <file>media/right.svg</file>
+        <file>media/up.svg</file>
+        <file>media/up-left.svg</file>
+        <file>media/up-right.svg</file>
+        <file>media/check.png</file>
+        <file>media/FabPrint.png</file>
+        <file>media/stop.png</file>
+        <file>media/icon.ico</file>
+        <file>media/fabstudio.png</file>
+        <file>media/icon.png</file>
+        <file>media/logo.png</file>
+    </qresource>
+</RCC>

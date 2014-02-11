@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ScanSettings>
+	<scanner>
+		<axis>x</axis>
+		<length>70</length>
+		<speed>100</speed>
+		<number>10</number>
+	</scanner>
+	<printer>
+		<comport>COM3</comport>
+		<config>SeraphScanner.config</config>
+	</printer>
+</ScanSettings>
